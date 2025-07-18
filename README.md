@@ -1,3 +1,4 @@
+![Mi foto](./supYkrp.png)
 # 👋 ¡Hola! Soy Angelo Alama
 Desarrollador de software con pasión por crear apps funcionales y elegantes.
 
