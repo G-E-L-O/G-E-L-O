@@ -43,7 +43,7 @@ Estoy abierto a aprender de la comunidad, colaborar en proyectos o simplemente c
 Puedes encontrarme aquí:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AngeloAlama-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/angelo-aarom-alama-quesada-2930882b2)  
-[![Email](https://img.shields.io/badge/Correo-angeloaa861@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](angeloaa861@gmail.com)
+[![Email](https://img.shields.io/badge/Correo-angeloaa861@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeloaa861@gmail.com)
 
 ---
 
