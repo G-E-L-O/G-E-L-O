@@ -47,4 +47,4 @@ Puedes encontrarme aquí:
 
 ---
 
-> ✨ “Aprender es el primer paso para crear algo grande.”  
+> ✨ “No hay mayor logro que aprender sin dejar de ser quien eres.”  
